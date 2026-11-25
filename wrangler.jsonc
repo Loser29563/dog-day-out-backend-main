@@ -1,0 +1,6 @@
+{
+  "name": "dog-day-out-api",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-25",
+  "d1_databases": [{"binding":"DB","database_name":"dog-day-out-db","database_id":"REPLACE_WITH_YOUR_D1_DATABASE_ID"}]
+}
