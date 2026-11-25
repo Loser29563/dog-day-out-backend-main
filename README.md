@@ -18,3 +18,4 @@ This is a **partial backend implementation**, not a deployable complete customer
 - The date limit uses America/New_York and should be adapted if the business operates elsewhere.
 - The existing Cloudflare preview is **not yet wired** to this API. Do not claim it is fully operational.
 - Do not migrate real customers or medical/vaccination records until privacy/security review and end-to-end tests are complete.
+- Dog Day Out deployment test
